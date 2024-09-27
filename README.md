@@ -8,7 +8,7 @@ Please follow the instructions to configure and run the automation script and re
 * [Luis Felipe Soto](https://github.com/LFSoto)
 
 ## Requirements
-To run this solution, you need to install Node 20.11.0.
+To run this solution, you need to install Node 20.17.0.
 * [Node 20.17.0](https://nodejs.org/en/blog/release/v20.17.0)
 
 ## Download dependencies
